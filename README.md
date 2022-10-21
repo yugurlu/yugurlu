@@ -13,8 +13,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugurlu&show_icons=true&theme=dark&locale=en&layout=compact" alt="yugurlu" /></p>
-
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl96vtvzt00110gmj2i3s5cem/stats?cursusId=21&coalitionId=228" alt="yugurlu's 42 stats" /></a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugurlu&show_icons=true&theme=dark&locale=en&layout=compact" alt="yugurlu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugurlu&show_icons=true&theme=dark&locale=en" alt="yugurlu" /></p>
