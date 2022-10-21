@@ -9,6 +9,8 @@
 <a href="https://www.hackerrank.com/yusufugurlu42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yusufugurlu42" height="30" width="40" /></a>
 </p>
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl96vtvzt00110gmj2i3s5cem/stats?cursusId=21&coalitionId=228" alt="yugurlu's 42 stats" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
