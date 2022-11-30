@@ -14,8 +14,8 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl96vtvzt00110gmj2i3s5cem/stats?cursusId=21&coalitionId=228" alt="yugurlu's 42 stats" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugurlu&show_icons=true&hide_border=true&locale=en&layout=compact" alt="yugurlu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugurlu&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="yugurlu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugurlu&show_icons=true&hide_border=true&locale=en" alt="yugurlu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugurlu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="yugurlu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugurlu&theme=dark" alt="yugurlu" /></p>
