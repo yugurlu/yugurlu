@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugurlu&theme=dark" alt="yugurlu" /></p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3172sqzbmoc74sw7gyvdarxnkpfm?si=ac90fc7607c44aa6)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]()
