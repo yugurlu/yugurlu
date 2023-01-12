@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am student in 42 Istanbul</h3>
 
-<img src="https://komarev.com/ghpvc/?username=yugurlua&color=brightgreen" alt="watching_count" />
+![](https://visitcount.itsvg.in/api?id=yugurlu52&icon=0&color=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugurlu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="yugurlu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugurlu&theme=dark" alt="yugurlu" /></p>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]()
