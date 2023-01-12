@@ -19,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugurlu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="yugurlu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugurlu&theme=dark" alt="yugurlu" /></p>
-
-<img src="https://profile-counter.glitch.me/{yugurlu}/count.svg" alt="yugurlu :: Visitor's Count" />
