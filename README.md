@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am student in 42 Istanbul</h3>
 
-<img src="https://profile-counter.glitch.me/{yugurlu}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{yugurlu}/count.svg" alt="yugurlu :: Visitor's Count" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
