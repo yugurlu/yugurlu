@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am student in 42 Istanbul</h3>
 
-![](https://visitcount.itsvg.in/api?id=yugurlu52&icon=0&color=0)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yugurlu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
