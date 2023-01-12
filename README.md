@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am student in 42 Istanbul</h3>
 
+<img src="https://komarev.com/ghpvc/?username=yugurlua&color=brightgreen" alt="watching_count" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yusuufugurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusuufugurlu" height="30" width="40" /></a>
@@ -19,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugurlu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="yugurlu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugurlu&theme=dark" alt="yugurlu" /></p>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
