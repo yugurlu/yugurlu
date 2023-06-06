@@ -1,20 +1,68 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">I am student in 42 Istanbul</h3>
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yusuufugurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusuufugurlu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yusuf-ugurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-ugurlu" height="30" width="40" /></a>
-<a href="https://instagram.com/yusuffugurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusuffugurlu" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/yusufugurlu42" target="blank"><img align="center" </p>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" </a> </p>
+###
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl96vtvzt00110gmj2i3s5cem/stats?cursusId=21&coalitionId=228" alt="yugurlu's 42 stats" /></a>
+<h2 align="left">About me</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugurlu&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="yugurlu" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugurlu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="yugurlu" /></p>
+<p align="center">🔭 Hi I am student in 42 Istanbul. I currently working on 42 Istanbul projects. And also, I improving myself in backend technologies.</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugurlu&theme=dark" alt="yugurlu" /></p>
+###
+
+<h2 align="left">Contact:</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yusuf-ugurlu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/yusuffugurlu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="38" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/yusuufugurlu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="38" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/yusufugurlu42?hr_r=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="38" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Languages and Tools:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yugurlu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yugurlu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yugurlu&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/3172sqzbmoc74sw7gyvdarxnkpfm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
