@@ -1,15 +1,9 @@
 <br clear="both">
-
 <h1 align="center">Hey 👋 What's up?</h1>
-
 ###
-
 <h2 align="left">About me</h2>
-
 ###
-
 <p align="center">🔭 Hi I am student in 42 Istanbul. I currently working on 42 Istanbul projects. And also, I improving myself in backend technologies.</p>
-
 ###
 
 <h2 align="left">Contact:</h2>
