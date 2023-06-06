@@ -57,4 +57,4 @@
 
 ###
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3172sqzbmoc74sw7gyvdarxnkpfm&width=1000)(https://open.spotify.com/user/3172sqzbmoc74sw7gyvdarxnkpfm)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3172sqzbmoc74sw7gyvdarxnkpfm&width=1000)](https://open.spotify.com/user/3172sqzbmoc74sw7gyvdarxnkpfm)
