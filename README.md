@@ -1,4 +1,4 @@
-<br clear="both">
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <h2 align="left">About me</h2>
