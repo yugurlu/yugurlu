@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">🔭 Hi I am student in 42 Istanbul. I currently working on 42 Istanbul projects. And also, I improving myself in backend technologies.</h4>
+<h4 align="center">🔭 Hi I am student in 42 Istanbul. I am currently working on 42 Istanbul projects. And also, I am improving myself in backend technologies.</h4>
 
 ###
 
