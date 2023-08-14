@@ -69,7 +69,7 @@
 ###
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-ecru.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-readme-ecru.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
 
 ###
