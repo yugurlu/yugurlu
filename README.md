@@ -1,16 +1,16 @@
-<h1 align="center">Hey! What's up?</h1>
+<h1 align="center">Hey What's up?</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👤 About me</h2>
 
 ###
 
-<h4 align="center">🔭 Hi I am student in 42 Istanbul. I am currently working on 42 Istanbul projects. And also, I am improving myself in backend technologies.</h4>
+<h4 align="center">🔭 Hi I am student in 42 Istanbul. I currently working on 42 Istanbul projects. And also, I improving myself in backend technologies.</h4>
 
 ###
 
-<h2 align="left">Contact:</h2>
+<h2 align="left">📡 Contact:</h2>
 
 ###
 
@@ -27,26 +27,35 @@
   <a href="https://www.hackerrank.com/yusufugurlu42?hr_r=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="37" alt="hackerrank logo"  />
   </a>
+  <a href="discordapp.com/users/323715822470037504" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="37" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">💻 Languages and Tools:</h2>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="1" />
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="1" />
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="1" />
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="1" />
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
@@ -59,5 +68,8 @@
 
 ###
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3172sqzbmoc74sw7gyvdarxnkpfm&width=1000)](https://open.spotify.com/user/3172sqzbmoc74sw7gyvdarxnkpfm)
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
+###
