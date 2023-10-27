@@ -1,7 +1,6 @@
-<h1>🌊🌊🌊</h1>
+
 
 <h2 align="left">💻 Languages and Tools:</h2>
-
 
 
 <div>
