@@ -1,32 +1,8 @@
-<h1 align="center">🌊🌊🌊</h1>
-
-<h2 align="left">📡 Contact:</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yusuf-ugurlu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="37" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/yusuffugurlu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="37" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/yusuufugurlu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="37" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/yusufugurlu42?hr_r=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="37" alt="hackerrank logo"  />
-  </a>
-  <a href="discordapp.com/users/323715822470037504" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="37" alt="discord logo"  />
-  </a>
-</div>
-
-###
+<h1>🌊🌊🌊</h1>
 
 <h2 align="left">💻 Languages and Tools:</h2>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
