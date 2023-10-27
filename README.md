@@ -1,15 +1,5 @@
 <h1 align="center">🌊🌊🌊</h1>
 
-###
-
-<h2 align="left">👤 About me</h2>
-
-###
-
-<h4 align="center">🔭 Hi I am student in 42 Istanbul. I currently working on 42 Istanbul projects. And also, I improving myself in backend technologies.</h4>
-
-###
-
 <h2 align="left">📡 Contact:</h2>
 
 ###
