@@ -1,6 +1,6 @@
 
 
-<h1 align="left">💻 Languages and Tools:</h1>
+<h4 align="left">💻 Languages and Tools:</h4>
 
 
 <div>
