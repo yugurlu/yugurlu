@@ -1,9 +1,9 @@
 
 
 
+<a align="left">💻 Languages and Tools</a>
 
 <div>
-<h4 align="left">💻 Languages and Tools</h4>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 
