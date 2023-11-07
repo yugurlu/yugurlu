@@ -1,7 +1,7 @@
 
 
 
-<a align="left">💻 Languages and Tools</a>
+<p align="left" style="color:blue;font-size:18px;">💻 Languages and Tools</p>
 
 <div>
   
