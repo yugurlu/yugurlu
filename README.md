@@ -1,3 +1,6 @@
+<p>As a skilled software developer with a strong foundation in languages like C, C++, JavaScript, and TypeScript, along with expertise in NodeJS and NestJS, my focus is on backend development, particularly in
+API management. I also have hands-on experience with ReactJS for frontend development. My pro2ciency in multithreading enables me to create highly performant applications.
+A currently student in 4j Istanbul, I am eager to apply my technical skills, passion for learning, strong work ethic, and attention to detail to new and challenging pro—ects. I am con2dent that I would be a valuable asset to any team.</p>
 
 <a align="left">💻 Languages and Tools</a>
 
