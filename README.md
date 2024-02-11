@@ -1,10 +1,10 @@
-<h4 align="left">🌊 About Me</h4>
+<h3 align="left">🌊 About Me</h3>
 
 <p>As a skilled software developer with a strong foundation in languages like C, C++, JavaScript, and TypeScript, along with expertise in NodeJS and NestJS, my focus is on backend development, particularly in
 API management. I also have hands-on experience with ReactJS for frontend development. My pro2ciency in multithreading enables me to create highly performant applications.
 As a currently student in 42 Istanbul, I am eager to apply my technical skills, passion for learning, strong work ethic, and attention to detail to new and challenging projects. I am con2dent that I would be a valuable asset to any team.</p>
 
-<h4 align="left">💻 Languages and Tools</h4>
+<h3 align="left">💻 Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
