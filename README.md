@@ -2,7 +2,7 @@
 
 <p>I am a software developer striving to specialize in both frontend and backend technologies. My journey started at 42 Istanbul, where I developed projects using C and C++.
 
-I have worked with technologies such as React, NextJs, NestJs, .NET Core, PostgreSQL and MongoDB contributing to numerous volunteer web projects. Currently, I am continuously exploring new technologies and best practices in web development.</p>
+I have worked with technologies such as <strong>React, NextJs, NestJs, .NET Core, PostgreSQL and MongoDB</strong> contributing to numerous volunteer web projects. Currently, I am continuously exploring new technologies and best practices in web development.</p>
 
 <h3 align="left">💻 Languages and Tools</h3>
 
