@@ -1,8 +1,8 @@
 <h3 align="left">🌊 About Me</h3>
 
-<p>As a skilled software developer with a strong foundation in languages like C, C++, JavaScript, and TypeScript, along with expertise in NodeJS and NestJS, my focus is on backend development, particularly in
-API management. I also have hands-on experience with ReactJS for frontend development. My pro2ciency in multithreading enables me to create highly performant applications.
-As a currently student in 42 Istanbul, I am eager to apply my technical skills, passion for learning, strong work ethic, and attention to detail to new and challenging projects. I am con2dent that I would be a valuable asset to any team.</p>
+<p>I am a software developer striving to specialize in both frontend and backend technologies. My journey started at 42 Istanbul, where I developed projects using C and C++.
+
+I have worked with technologies such as React, NextJs, NestJs, .NET Core, PostgreSQL and MongoDB contributing to numerous volunteer web projects. Currently, I am continuously exploring new technologies and best practices in web development.</p>
 
 <h3 align="left">💻 Languages and Tools</h3>
 
